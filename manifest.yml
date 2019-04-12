@@ -1,6 +1,6 @@
 ---
 applications:
-- name: pcfconcoursedemo
+- name: pcf-rmq-demo
   memory: 1G
   instances: 1
   path: ./target/pcfdemo.war
