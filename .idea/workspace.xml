@@ -47,8 +47,8 @@
       <file leaf-file-name="pcfdemo.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pcfdemo.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="102" column="67" lean-forward="false" selection-start-line="102" selection-start-column="67" selection-end-line="102" selection-end-column="67" />
+            <state relative-caret-position="260">
+              <caret line="102" column="64" lean-forward="false" selection-start-line="102" selection-start-column="64" selection-end-line="102" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -128,10 +128,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="840" />
+    <option name="x" value="1680" />
     <option name="y" value="23" />
-    <option name="width" value="840" />
-    <option name="height" value="975" />
+    <option name="width" value="1920" />
+    <option name="height" value="1005" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -375,15 +375,15 @@
       <workItem from="1548979676130" duration="1910000" />
       <workItem from="1549293285633" duration="17000" />
       <workItem from="1555014238280" duration="320000" />
-      <workItem from="1555031965946" duration="1731000" />
+      <workItem from="1555031965946" duration="3054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6062000" />
+    <option name="totallyTimeSpent" value="7385000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="975" extended-state="6" />
+    <frame x="1680" y="23" width="1920" height="1005" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -400,7 +400,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25579977" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22310969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -723,8 +723,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pcfdemo.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="102" column="67" lean-forward="false" selection-start-line="102" selection-start-column="67" selection-end-line="102" selection-end-column="67" />
+        <state relative-caret-position="260">
+          <caret line="102" column="64" lean-forward="false" selection-start-line="102" selection-start-column="64" selection-end-line="102" selection-end-column="64" />
           <folding />
         </state>
       </provider>
